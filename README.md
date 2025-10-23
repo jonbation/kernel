@@ -1,4 +1,4 @@
-# Pretty-num-kotlin
+# Kernel
 
 Converts java / kotlin numbers to human-readable strings.
 
@@ -16,9 +16,6 @@ Converts java / kotlin numbers to human-readable strings.
 | 2_004_254_578 | 2B     |
 
 ## Usage
-
-[Add this](https://jitpack.io/#dessalines/pretty-num-kotlin) to your `build.gradle.kts`:
-
 `implementation("com.github.dessalines:pretty-num-kotlin:TAG")`
 
 Then do:
