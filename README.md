@@ -27,5 +27,3 @@ Then do:
 val numStr = prettyFormat(6727) // 6.7k
 
 ```
-
-This is a kotlin port of [SleeplessOne1917/pretty-num](https://github.com/SleeplessOne1917/pretty-num) for Rust.
